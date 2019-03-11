@@ -1,0 +1,98 @@
+Cutting For Stone,Abraham Verghese,450
+And Then There Were None,Agatha Christie,450
+Brave New World,Aldous Huxley,300
+The Count of Monte Cristo,Alexandre Dumas,180
+The Color Purple,Alice Walker,384
+The Diary of Anne Frank,Anne Frank,500
+The Little Prince,Antoine de Saint-Exupéry,80
+The Adventures of Sherlock Holmes (#3),Arthur Conan Doyle,450
+Memoirs of a Geisha,Arthur Golden,1000
+The Time Traveler's Wife,Audrey Niffenegger,384
+The Poisonwood Bible: A Novel,Barbara Kingsolver,384
+A Tree Grows in Brooklyn,Betty Smith,300
+Dracula,Bram Stoker,384
+The Chronicles of Narnia,C.S. Lewis,180
+The Lion the Witch and the Wadrobe,C.S. Lewis,180
+A Christmas Carol,Charles Dickens,180
+A Tale of Two Cities,Charles Dickens,180
+Great Expectations,Charles Dickens,180
+Jane Eyre,Charlotte Bronte,450
+The Thorn Birds,Colleen McCullough,300
+The Road,Cormac McCarthy,300
+Rebecca,Daphne du Maurier,384
+Outlander,Diana Gabaldon,1000
+The Hitchhikers Guide to the Galaxy,Douglas Adams,180
+Charlotte's Web,E.B. White,450
+The Raven,Edgar Allan Poe,450
+Night,Elie Wiesel,260
+Wuthering Heights,Emily Bronte,450
+The Old Man and the Sea,Ernest Hemingway,300
+The Great Gatsby,F. Scott Fitzgerald,280
+The Secret Garden,Frances Hodgson Burnett,300
+Crime and Punishment,Fyodor Dostoyevsky,300
+The Brothers Karamazov,Fyodor Dostoyevsky,300
+One Hundred Years of Solitude,Gabriel Garcí­a Márquez,620
+1984,George Orwell,260
+Animal Farm,George Orwell,260
+A Game of Thrones,George R.R. Martin,1000
+To Kill a Mockingbird,Harper Lee,450
+The Story of My Life,Helen Keller,550
+Siddhartha,Hermann Hesse,450
+The Odyssey,Homer,384
+The Catcher in the Rye,J.D. Salinger,384
+Harry Potter and the Deathly Hallows,J.K. Rowling,460
+Harry Potter and the Half-Blood Prince,J.K. Rowling,460
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,460
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,460
+The Lord of the Rings (1-3),J.R.R. Tolkien,1000
+Pride and Prejudice,Jane Austen,1000
+The Glass Castle,Jeannette Walls,180
+The Fault in Our Stars,John Green,1000
+A Prayer for Owen Meany,John Irving,460
+East of Eden,John Steinbeck,500
+Of Mice and Men,John Steinbeck,500
+The Grapes of Wrath,John Steinbeck,500
+Catch-22,Joseph Heller,384
+The Help,Kathryn Stockett,300
+The Pillars of the Earth,Ken Follett,300
+The Kite Runner,Khaled Hosseini,300
+The Holy Bible,King James Version,300
+Slaughterhouse-Five,Kurt Vonnegut,300
+Anne of Green Gables,L.M. Montgomery,300
+Anna Karenina,Leo Tolstoy,300
+Alice in Wonderland,Lewis Carroll,260
+The Giver,Lois Lowry,300
+Little Women,Louisa May Alcott,300
+A Wrinkle in Time,Madeleine L'Engle,450
+The Handmaid's Tale,Margaret Atwood,280
+Gone with the Wind,Margaret Mitchell,260
+The Adventures of Huckleberry Finn,Mark Twain,1000
+The Adventures of Tom Sawyer,Mark Twain,1000
+Frankenstein,Mary Shelley,120
+The Scarlet Letter,Nathaniel Hawthorne,450
+The Phantom Tollbooth,Norton Juster,384
+Enders Game,Orson Scott Card,280
+The Good Earth (House of Earth #1),Pearl S. Buck,500
+Fahrenheit 451,Ray Bradbury,300
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,300
+Watership Down,Richard Adams,180
+Charlie and the Chocolate Factory,Roald Dahl,260
+Water for Elephants,Sara Gruen,1000
+Where the Sidewalk Ends,Shel Silverstein,200
+Celebrating Silence: Excerpts from Five Years of Weekly Knowledge,Sri Sri Ravi Shankar,384
+The Stand,Stephen King,460
+The Girl with a Dragon Tattoo,Stieg Larrson,1000
+The Secret Life of Bees,Sue Monk Kidd,280
+Catching Fire,Suzanne Collins,180
+Mockingjay (Hunger Games #3),Suzanne Collins,180
+The Hunger Games,Suzanne Collins,180
+The Things They Carried,Tim O'Brien,1000
+Beloved,Toni Morrison,1000
+In Cold Blood,Truman Capote,450
+Les Misérables,Victor Hugo,300
+The Lord of the Flies,William Golding,460
+The Princess Bride,William Goldman,1000
+Hamlet,William Shakespeare,450
+Macbeth,William Shakespeare,450
+Romeo and Juliet,William Shakespeare,450
+Life of Pi,Yann Martel,260
